@@ -1,0 +1,19 @@
+{
+  "name": "soil-moisture-sensor",
+  "author": "Swaroop Sawale",
+  "pins": [
+    "VCC",
+    "GND",
+    "OUT"
+  ],
+  "controls": [
+    {
+      "type": "slider",
+      "name": "Soil Moisture Level",
+      "pin": "OUT",
+      "min": 0,
+      "max": 1023,
+      "default": 512
+    }
+  ]
+}
