@@ -1,0 +1,2001 @@
+temperature,humidity,label
+32.5,86.9,landslide risk
+37.1,89.64,landslide risk
+24.56,48.21,normal
+24.72,60.83,normal
+27.05,44.15,normal
+28.48,82.73,moist soil
+24.44,59.5,normal
+33.62,93.47,landslide risk
+20.51,63.71,normal
+22.75,43.99,normal
+21.5,40.53,normal
+21.42,61.09,normal
+29.33,70.83,moist soil
+33.73,88.18,landslide risk
+26.07,56.61,normal
+36.59,91.84,landslide risk
+31.54,87.24,landslide risk
+21.76,40.48,normal
+26.07,41.04,normal
+27.67,60.85,normal
+33.48,93.37,landslide risk
+29.52,78.24,moist soil
+25.78,57.78,normal
+20.45,46.15,normal
+27.32,47.97,normal
+24.4,69.02,normal
+31.82,82.75,moist soil
+26.82,83.44,moist soil
+31.33,88.56,landslide risk
+30.96,87.81,landslide risk
+27.7,45.21,normal
+28.38,75.64,moist soil
+27.03,42.21,normal
+32.45,87.27,landslide risk
+24.86,43.19,normal
+20.58,41.3,normal
+24.54,64.43,normal
+37.46,87.31,landslide risk
+25.85,78.14,moist soil
+27.02,49.88,normal
+27.71,62.65,normal
+31.85,78.73,moist soil
+33.33,90.0,landslide risk
+26.08,71.69,moist soil
+26.55,50.79,normal
+25.2,68.65,normal
+27.55,69.55,normal
+21.96,55.46,normal
+35.59,85.84,landslide risk
+24.2,54.91,normal
+27.66,64.42,normal
+20.91,62.62,normal
+33.32,89.35,landslide risk
+31.81,93.21,landslide risk
+34.12,88.09,landslide risk
+25.19,41.99,normal
+20.68,41.37,normal
+24.74,65.39,normal
+20.66,64.99,normal
+28.91,84.71,moist soil
+29.52,81.53,moist soil
+32.9,88.96,landslide risk
+31.91,72.62,moist soil
+30.22,78.09,moist soil
+25.82,40.22,normal
+23.77,66.92,normal
+24.47,52.55,normal
+29.87,84.91,moist soil
+23.23,62.86,normal
+25.58,68.13,normal
+29.9,74.52,moist soil
+23.18,69.76,normal
+27.38,53.53,normal
+23.76,51.55,normal
+25.74,84.97,moist soil
+30.99,73.67,moist soil
+25.55,48.07,normal
+30.32,92.6,landslide risk
+20.84,69.46,normal
+32.4,89.8,landslide risk
+23.82,68.77,normal
+26.2,60.66,normal
+31.28,94.57,landslide risk
+24.64,41.72,normal
+27.58,40.94,normal
+29.36,77.31,moist soil
+29.01,77.37,moist soil
+29.24,70.88,moist soil
+24.67,48.23,normal
+24.6,64.62,normal
+25.05,44.29,normal
+25.63,81.41,moist soil
+25.5,60.09,normal
+24.44,43.21,normal
+28.29,79.81,moist soil
+24.13,69.67,normal
+23.99,42.22,normal
+36.43,91.8,landslide risk
+22.39,55.28,normal
+29.15,72.5,moist soil
+24.91,52.61,normal
+23.2,63.17,normal
+27.15,65.14,normal
+24.09,65.39,normal
+23.18,53.06,normal
+30.51,73.63,moist soil
+22.79,60.81,normal
+24.54,44.49,normal
+21.48,60.63,normal
+23.34,67.91,normal
+27.41,66.37,normal
+35.97,92.82,landslide risk
+23.04,53.29,normal
+26.8,48.01,normal
+30.65,90.16,landslide risk
+37.51,91.81,landslide risk
+28.37,74.93,moist soil
+37.42,90.66,landslide risk
+24.35,48.48,normal
+36.45,90.29,landslide risk
+21.3,40.88,normal
+25.8,64.82,normal
+22.32,54.98,normal
+25.06,68.19,normal
+34.82,91.25,landslide risk
+31.28,71.91,moist soil
+24.26,52.54,normal
+34.0,85.64,landslide risk
+22.7,68.9,normal
+22.17,67.52,normal
+21.11,60.1,normal
+26.95,63.71,normal
+22.44,63.04,normal
+22.78,67.11,normal
+25.12,71.6,moist soil
+20.49,62.74,normal
+34.19,93.79,landslide risk
+25.97,44.65,normal
+30.36,77.32,moist soil
+23.64,48.01,normal
+22.72,56.16,normal
+23.04,44.3,normal
+22.27,64.42,normal
+26.98,66.38,normal
+27.47,41.13,normal
+35.57,90.98,landslide risk
+21.75,68.09,normal
+31.55,87.98,landslide risk
+22.46,62.45,normal
+29.2,84.5,moist soil
+22.22,60.66,normal
+23.85,66.14,normal
+26.54,59.2,normal
+20.6,55.13,normal
+31.3,85.1,landslide risk
+35.78,91.99,landslide risk
+27.52,58.61,normal
+20.71,56.03,normal
+31.66,79.57,moist soil
+25.44,43.58,normal
+20.7,59.52,normal
+26.12,58.82,normal
+26.86,50.43,normal
+37.96,88.67,landslide risk
+24.15,46.43,normal
+21.59,40.05,normal
+23.38,56.78,normal
+28.95,82.42,moist soil
+27.51,55.96,normal
+31.0,85.62,landslide risk
+26.97,67.98,normal
+27.2,59.48,normal
+27.48,77.56,moist soil
+22.64,43.85,normal
+21.53,62.88,normal
+23.38,55.66,normal
+22.03,58.18,normal
+25.62,45.0,normal
+25.19,48.44,normal
+31.09,86.91,landslide risk
+30.69,81.53,moist soil
+36.07,87.77,landslide risk
+25.91,79.64,moist soil
+31.6,79.62,moist soil
+24.19,54.15,normal
+26.63,50.67,normal
+23.58,42.22,normal
+29.94,75.96,moist soil
+37.76,93.42,landslide risk
+31.05,92.94,landslide risk
+25.46,72.51,moist soil
+27.34,52.63,normal
+27.35,46.14,normal
+33.87,87.99,landslide risk
+34.4,90.02,landslide risk
+34.13,87.27,landslide risk
+32.08,92.0,landslide risk
+37.64,90.25,landslide risk
+35.49,89.7,landslide risk
+25.71,80.3,moist soil
+27.62,78.86,moist soil
+25.35,77.54,moist soil
+26.37,49.09,normal
+23.73,65.85,normal
+26.44,42.67,normal
+34.08,91.1,landslide risk
+27.76,47.5,normal
+34.16,94.61,landslide risk
+24.25,48.13,normal
+26.41,44.78,normal
+25.77,80.35,moist soil
+25.08,62.88,normal
+29.84,84.3,moist soil
+25.6,42.56,normal
+25.74,53.21,normal
+30.69,79.7,moist soil
+33.3,89.87,landslide risk
+25.8,73.06,moist soil
+31.98,93.59,landslide risk
+30.64,79.08,moist soil
+25.82,80.91,moist soil
+36.81,90.28,landslide risk
+29.07,80.92,moist soil
+21.48,46.55,normal
+31.15,73.31,moist soil
+32.07,90.02,landslide risk
+27.92,46.96,normal
+27.46,84.67,moist soil
+37.44,93.93,landslide risk
+26.27,42.87,normal
+23.48,52.54,normal
+33.74,93.09,landslide risk
+23.86,42.2,normal
+37.46,85.49,landslide risk
+30.19,77.55,moist soil
+33.56,85.45,landslide risk
+26.64,63.75,normal
+27.17,75.5,moist soil
+24.47,62.51,normal
+23.69,50.87,normal
+26.76,83.37,moist soil
+31.77,84.05,moist soil
+20.71,46.04,normal
+31.28,79.63,moist soil
+23.67,40.85,normal
+25.1,48.04,normal
+33.71,92.79,landslide risk
+21.31,68.64,normal
+31.17,76.24,moist soil
+25.07,49.53,normal
+27.26,70.55,moist soil
+27.93,59.73,normal
+24.86,43.07,normal
+28.48,81.89,moist soil
+25.17,40.63,normal
+25.23,60.04,normal
+28.78,71.87,moist soil
+36.18,88.5,landslide risk
+30.32,84.98,moist soil
+32.26,87.17,landslide risk
+25.91,59.55,normal
+27.86,67.33,normal
+25.13,41.65,normal
+20.6,65.18,normal
+37.13,92.97,landslide risk
+27.12,44.18,normal
+21.85,67.79,normal
+30.49,86.8,landslide risk
+25.35,58.11,normal
+30.72,86.59,landslide risk
+30.84,87.41,landslide risk
+25.71,51.35,normal
+25.47,67.07,normal
+29.14,79.9,moist soil
+23.76,55.81,normal
+28.97,73.48,moist soil
+22.3,62.44,normal
+27.97,51.16,normal
+31.47,94.47,landslide risk
+30.03,71.63,moist soil
+20.51,45.18,normal
+21.25,59.87,normal
+29.46,84.2,moist soil
+33.68,86.89,landslide risk
+29.72,71.77,moist soil
+30.6,85.28,landslide risk
+20.73,61.39,normal
+24.59,43.19,normal
+27.0,77.58,moist soil
+24.47,42.95,normal
+20.76,40.77,normal
+27.36,83.77,moist soil
+24.0,45.19,normal
+22.3,50.29,normal
+22.66,56.16,normal
+26.32,74.36,moist soil
+23.04,59.58,normal
+28.96,77.36,moist soil
+36.61,88.22,landslide risk
+25.78,72.56,moist soil
+26.28,67.31,normal
+37.42,87.23,landslide risk
+21.2,44.2,normal
+34.46,92.09,landslide risk
+32.54,91.25,landslide risk
+24.58,53.77,normal
+37.39,86.13,landslide risk
+24.63,47.44,normal
+23.62,44.87,normal
+29.52,82.13,moist soil
+36.38,93.19,landslide risk
+26.26,57.89,normal
+33.71,93.47,landslide risk
+30.27,72.47,moist soil
+25.36,45.53,normal
+24.96,46.02,normal
+37.34,93.67,landslide risk
+34.56,87.19,landslide risk
+27.91,44.07,normal
+35.16,85.75,landslide risk
+26.88,72.46,moist soil
+23.75,42.39,normal
+26.78,40.1,normal
+20.25,59.27,normal
+27.04,64.48,normal
+21.65,51.83,normal
+27.84,53.88,normal
+30.46,78.59,moist soil
+22.72,51.22,normal
+34.31,91.13,landslide risk
+37.09,89.79,landslide risk
+33.54,85.36,landslide risk
+32.74,89.95,landslide risk
+33.88,91.19,landslide risk
+30.06,75.05,moist soil
+30.27,93.6,landslide risk
+32.5,88.26,landslide risk
+26.26,77.42,moist soil
+25.27,49.39,normal
+23.84,50.94,normal
+31.58,77.91,moist soil
+23.39,57.23,normal
+25.34,69.86,normal
+26.38,81.05,moist soil
+26.65,45.79,normal
+22.09,45.88,normal
+30.7,71.86,moist soil
+27.75,66.5,normal
+31.48,76.82,moist soil
+31.78,77.07,moist soil
+30.99,70.78,moist soil
+37.75,88.24,landslide risk
+26.12,45.05,normal
+21.5,57.52,normal
+29.95,70.87,moist soil
+34.03,91.63,landslide risk
+22.96,61.27,normal
+26.88,75.68,moist soil
+34.78,92.28,landslide risk
+31.66,74.42,moist soil
+31.4,87.32,landslide risk
+26.44,81.02,moist soil
+37.02,94.35,landslide risk
+21.07,69.07,normal
+32.16,86.86,landslide risk
+27.17,60.38,normal
+21.68,41.42,normal
+34.45,89.89,landslide risk
+22.45,49.09,normal
+21.0,48.57,normal
+23.19,45.41,normal
+28.22,73.16,moist soil
+36.94,90.83,landslide risk
+31.39,91.82,landslide risk
+22.88,45.34,normal
+30.67,72.22,moist soil
+37.76,91.51,landslide risk
+26.94,55.81,normal
+20.58,52.59,normal
+28.38,75.61,moist soil
+21.71,61.4,normal
+22.16,47.85,normal
+31.1,80.01,moist soil
+33.47,88.31,landslide risk
+28.94,78.4,moist soil
+21.22,41.22,normal
+30.8,73.81,moist soil
+31.45,90.29,landslide risk
+21.0,49.07,normal
+27.43,58.71,normal
+22.61,53.01,normal
+25.76,51.1,normal
+27.6,71.27,moist soil
+25.36,77.74,moist soil
+26.17,43.33,normal
+34.08,91.61,landslide risk
+30.85,93.57,landslide risk
+30.38,84.73,moist soil
+37.69,89.2,landslide risk
+27.78,67.95,normal
+24.33,47.17,normal
+23.15,42.07,normal
+22.16,48.62,normal
+22.37,59.75,normal
+37.36,90.12,landslide risk
+21.59,49.28,normal
+22.92,66.02,normal
+28.53,79.13,moist soil
+29.89,83.96,moist soil
+25.28,75.67,moist soil
+27.41,48.54,normal
+29.99,73.57,moist soil
+23.24,62.8,normal
+21.26,59.9,normal
+22.91,60.51,normal
+30.66,91.13,landslide risk
+23.6,58.24,normal
+22.69,48.26,normal
+27.48,77.13,moist soil
+36.48,92.13,landslide risk
+28.26,81.7,moist soil
+22.61,48.75,normal
+32.84,86.92,landslide risk
+21.44,67.04,normal
+26.72,77.13,moist soil
+25.24,73.69,moist soil
+23.34,45.47,normal
+26.81,78.89,moist soil
+22.56,45.58,normal
+34.37,94.4,landslide risk
+37.05,85.13,landslide risk
+25.23,43.77,normal
+20.33,40.22,normal
+37.93,86.52,landslide risk
+30.69,91.86,landslide risk
+20.63,41.73,normal
+27.18,78.19,moist soil
+21.65,64.05,normal
+27.26,59.12,normal
+26.31,46.91,normal
+20.6,49.61,normal
+26.71,46.71,normal
+21.9,51.46,normal
+25.59,69.02,normal
+28.73,80.97,moist soil
+22.59,57.23,normal
+36.63,89.13,landslide risk
+22.46,68.49,normal
+28.84,83.3,moist soil
+31.69,93.11,landslide risk
+21.17,42.43,normal
+26.5,69.68,normal
+22.3,49.99,normal
+21.13,64.79,normal
+27.24,54.17,normal
+27.46,49.37,normal
+27.13,71.31,moist soil
+36.45,87.83,landslide risk
+30.52,79.67,moist soil
+23.66,48.69,normal
+27.18,53.79,normal
+21.31,40.62,normal
+26.1,50.28,normal
+27.21,50.04,normal
+31.84,77.75,moist soil
+29.36,78.53,moist soil
+37.9,93.12,landslide risk
+23.45,40.77,normal
+30.58,71.73,moist soil
+27.55,53.55,normal
+34.77,88.06,landslide risk
+24.69,61.59,normal
+25.26,59.58,normal
+26.9,47.73,normal
+26.84,67.27,normal
+30.85,77.49,moist soil
+29.04,81.75,moist soil
+37.11,94.07,landslide risk
+31.59,76.62,moist soil
+34.6,90.33,landslide risk
+37.25,85.17,landslide risk
+27.59,75.77,moist soil
+23.97,64.2,normal
+29.05,74.61,moist soil
+27.2,81.41,moist soil
+31.9,71.05,moist soil
+22.73,47.29,normal
+21.94,44.2,normal
+20.82,63.55,normal
+23.41,65.57,normal
+20.26,63.7,normal
+21.6,46.96,normal
+23.96,59.43,normal
+26.79,61.62,normal
+25.54,78.5,moist soil
+30.79,94.59,landslide risk
+35.81,92.04,landslide risk
+20.81,44.78,normal
+25.88,71.67,moist soil
+30.52,91.88,landslide risk
+27.46,45.3,normal
+27.18,51.2,normal
+31.6,85.68,landslide risk
+22.32,64.09,normal
+25.77,47.39,normal
+32.97,92.46,landslide risk
+30.16,88.38,landslide risk
+32.17,91.78,landslide risk
+32.82,91.82,landslide risk
+31.66,74.94,moist soil
+22.67,47.93,normal
+37.55,93.04,landslide risk
+28.94,84.5,moist soil
+24.62,40.84,normal
+23.65,56.06,normal
+26.56,79.44,moist soil
+25.81,62.98,normal
+25.46,79.5,moist soil
+22.49,58.7,normal
+20.94,55.77,normal
+26.25,41.02,normal
+27.5,45.82,normal
+37.4,89.57,landslide risk
+22.75,40.97,normal
+33.89,91.41,landslide risk
+31.27,87.2,landslide risk
+30.24,70.07,moist soil
+34.06,89.65,landslide risk
+23.14,69.81,normal
+29.22,81.18,moist soil
+37.88,91.97,landslide risk
+34.15,90.46,landslide risk
+27.51,42.07,normal
+26.02,54.5,normal
+37.26,91.59,landslide risk
+34.37,88.05,landslide risk
+36.3,86.84,landslide risk
+31.82,85.4,landslide risk
+35.61,89.75,landslide risk
+27.23,66.08,normal
+29.39,80.69,moist soil
+22.79,49.81,normal
+27.01,84.32,moist soil
+26.0,67.5,normal
+24.24,61.4,normal
+35.83,91.35,landslide risk
+23.64,55.83,normal
+20.18,44.93,normal
+30.22,70.25,moist soil
+36.35,86.24,landslide risk
+24.37,60.51,normal
+27.86,71.77,moist soil
+20.51,41.11,normal
+27.79,63.64,normal
+25.64,58.02,normal
+24.15,45.07,normal
+25.59,67.57,normal
+30.79,90.02,landslide risk
+25.01,50.47,normal
+31.51,92.43,landslide risk
+33.72,88.18,landslide risk
+31.98,72.05,moist soil
+25.52,49.32,normal
+27.7,83.77,moist soil
+29.65,71.1,moist soil
+26.51,79.14,moist soil
+33.12,92.21,landslide risk
+27.58,54.06,normal
+26.7,53.34,normal
+27.89,63.07,normal
+23.24,44.74,normal
+25.8,81.71,moist soil
+31.02,82.53,moist soil
+31.91,81.19,moist soil
+27.06,66.27,normal
+31.66,71.95,moist soil
+26.93,74.49,moist soil
+21.35,46.4,normal
+26.58,48.68,normal
+26.69,63.13,normal
+25.16,56.97,normal
+33.17,89.19,landslide risk
+27.44,81.04,moist soil
+36.84,87.05,landslide risk
+31.68,94.49,landslide risk
+22.84,67.86,normal
+25.01,84.38,moist soil
+20.35,65.69,normal
+21.99,67.44,normal
+27.92,58.01,normal
+26.02,83.74,moist soil
+21.18,40.42,normal
+30.67,84.64,moist soil
+25.23,67.73,normal
+29.8,81.97,moist soil
+32.82,94.65,landslide risk
+27.62,62.37,normal
+31.19,88.28,landslide risk
+29.79,70.94,moist soil
+35.0,90.91,landslide risk
+30.58,90.15,landslide risk
+29.45,75.22,moist soil
+27.04,62.81,normal
+26.56,55.69,normal
+20.56,58.32,normal
+23.39,65.14,normal
+29.41,82.98,moist soil
+37.24,86.18,landslide risk
+26.01,61.24,normal
+21.02,42.36,normal
+20.95,62.22,normal
+36.7,87.58,landslide risk
+27.68,67.55,normal
+25.94,53.22,normal
+26.29,66.47,normal
+31.06,70.36,moist soil
+21.33,54.58,normal
+30.28,87.24,landslide risk
+26.25,46.45,normal
+30.96,82.96,moist soil
+25.2,81.81,moist soil
+37.75,89.26,landslide risk
+25.41,51.69,normal
+22.45,56.83,normal
+20.69,48.86,normal
+22.76,67.26,normal
+23.98,43.42,normal
+37.58,87.2,landslide risk
+27.29,81.63,moist soil
+21.35,53.65,normal
+27.85,43.09,normal
+27.99,42.04,normal
+27.41,59.93,normal
+25.9,54.56,normal
+26.42,58.16,normal
+20.91,59.26,normal
+31.66,79.02,moist soil
+32.99,91.51,landslide risk
+29.13,77.83,moist soil
+37.68,93.22,landslide risk
+21.91,60.14,normal
+32.46,92.18,landslide risk
+35.47,91.6,landslide risk
+25.35,48.11,normal
+35.21,85.45,landslide risk
+23.57,42.27,normal
+26.08,53.24,normal
+23.3,67.95,normal
+30.76,86.54,landslide risk
+24.54,64.59,normal
+21.3,68.44,normal
+20.15,56.3,normal
+26.3,61.08,normal
+30.51,91.19,landslide risk
+34.21,85.76,landslide risk
+21.84,40.61,normal
+31.17,83.67,moist soil
+24.36,61.43,normal
+27.18,70.39,moist soil
+33.38,90.34,landslide risk
+31.68,79.33,moist soil
+23.94,62.99,normal
+27.38,67.51,normal
+27.52,43.4,normal
+20.6,41.57,normal
+24.04,67.39,normal
+27.11,53.9,normal
+25.54,52.61,normal
+37.52,90.04,landslide risk
+22.99,48.55,normal
+28.09,75.56,moist soil
+26.18,76.25,moist soil
+28.0,78.38,moist soil
+31.63,87.32,landslide risk
+27.05,55.16,normal
+31.35,73.85,moist soil
+27.5,48.52,normal
+32.23,86.18,landslide risk
+30.94,90.64,landslide risk
+20.76,40.55,normal
+31.25,79.58,moist soil
+20.81,61.36,normal
+26.12,81.63,moist soil
+26.61,65.37,normal
+26.31,82.42,moist soil
+24.94,43.8,normal
+33.39,88.72,landslide risk
+26.65,49.12,normal
+21.31,41.63,normal
+21.3,60.66,normal
+28.31,84.07,moist soil
+32.37,88.88,landslide risk
+35.28,90.11,landslide risk
+30.87,83.93,moist soil
+22.09,44.98,normal
+37.86,92.0,landslide risk
+24.19,55.22,normal
+22.73,64.14,normal
+30.2,73.92,moist soil
+27.68,62.54,normal
+26.21,78.73,moist soil
+22.93,44.27,normal
+31.5,92.13,landslide risk
+22.09,43.29,normal
+23.91,54.62,normal
+20.11,69.08,normal
+36.06,92.79,landslide risk
+22.06,56.48,normal
+25.54,45.58,normal
+26.77,50.75,normal
+25.79,83.75,moist soil
+29.43,77.18,moist soil
+33.68,93.66,landslide risk
+28.14,74.43,moist soil
+24.78,65.17,normal
+26.84,59.11,normal
+21.26,46.24,normal
+25.8,73.86,moist soil
+32.43,94.97,landslide risk
+27.4,76.09,moist soil
+25.74,77.44,moist soil
+21.65,54.86,normal
+31.31,79.02,moist soil
+26.15,41.11,normal
+25.34,79.02,moist soil
+25.99,75.19,moist soil
+22.34,41.27,normal
+20.9,67.6,normal
+27.92,40.16,normal
+33.37,92.12,landslide risk
+20.97,47.1,normal
+25.63,46.29,normal
+34.8,91.28,landslide risk
+27.78,49.1,normal
+34.48,89.49,landslide risk
+25.35,58.07,normal
+24.59,46.38,normal
+23.81,42.84,normal
+37.95,87.98,landslide risk
+35.99,92.42,landslide risk
+37.05,86.94,landslide risk
+23.88,44.53,normal
+35.52,88.29,landslide risk
+37.49,94.9,landslide risk
+26.17,44.77,normal
+21.43,52.47,normal
+26.64,47.87,normal
+26.72,42.24,normal
+37.76,88.23,landslide risk
+36.21,87.44,landslide risk
+24.86,40.33,normal
+23.09,68.87,normal
+21.04,54.44,normal
+22.37,55.42,normal
+30.79,84.93,moist soil
+37.18,86.54,landslide risk
+36.0,94.03,landslide risk
+37.76,92.62,landslide risk
+20.28,59.67,normal
+27.39,64.14,normal
+20.81,41.09,normal
+29.37,74.95,moist soil
+33.99,93.76,landslide risk
+31.4,94.92,landslide risk
+36.83,93.2,landslide risk
+32.5,87.39,landslide risk
+22.62,54.4,normal
+23.48,50.33,normal
+24.16,62.51,normal
+30.67,82.91,moist soil
+37.02,85.74,landslide risk
+21.93,42.08,normal
+27.79,41.37,normal
+26.75,52.75,normal
+36.5,93.64,landslide risk
+36.43,93.35,landslide risk
+25.66,63.84,normal
+20.85,45.04,normal
+35.75,93.72,landslide risk
+29.82,75.05,moist soil
+32.12,88.93,landslide risk
+32.12,94.24,landslide risk
+31.22,92.36,landslide risk
+25.32,77.81,moist soil
+36.93,87.73,landslide risk
+31.85,73.79,moist soil
+21.93,45.18,normal
+25.78,61.33,normal
+21.42,65.15,normal
+28.96,77.46,moist soil
+20.29,47.45,normal
+31.78,83.19,moist soil
+30.12,87.84,landslide risk
+26.15,44.25,normal
+24.57,43.65,normal
+30.82,82.09,moist soil
+29.34,76.75,moist soil
+31.64,85.34,landslide risk
+34.87,87.12,landslide risk
+24.57,58.14,normal
+23.52,43.13,normal
+25.08,71.86,moist soil
+20.9,53.2,normal
+24.98,66.84,normal
+26.49,71.13,moist soil
+30.2,83.14,moist soil
+31.82,89.49,landslide risk
+25.09,50.9,normal
+27.26,81.1,moist soil
+37.03,92.34,landslide risk
+29.75,84.74,moist soil
+21.05,59.16,normal
+36.26,87.78,landslide risk
+30.58,93.47,landslide risk
+33.37,87.13,landslide risk
+24.39,57.57,normal
+22.67,65.22,normal
+25.23,56.12,normal
+26.55,63.59,normal
+20.77,40.74,normal
+31.3,93.46,landslide risk
+30.83,93.77,landslide risk
+28.8,80.19,moist soil
+25.01,44.19,normal
+24.1,56.97,normal
+27.69,40.79,normal
+25.59,62.22,normal
+37.82,94.18,landslide risk
+22.0,42.89,normal
+33.98,93.54,landslide risk
+31.6,79.31,moist soil
+25.43,77.36,moist soil
+26.05,68.39,normal
+34.55,88.48,landslide risk
+20.19,53.23,normal
+22.13,68.32,normal
+22.62,59.22,normal
+27.04,82.69,moist soil
+20.55,47.77,normal
+20.87,56.71,normal
+23.89,69.39,normal
+27.55,44.7,normal
+21.56,69.11,normal
+31.38,94.16,landslide risk
+26.55,41.29,normal
+37.37,87.01,landslide risk
+25.46,82.25,moist soil
+20.8,68.34,normal
+31.37,74.26,moist soil
+27.78,60.59,normal
+35.98,90.2,landslide risk
+33.97,90.73,landslide risk
+28.05,76.99,moist soil
+31.15,89.6,landslide risk
+26.82,44.93,normal
+27.8,77.74,moist soil
+21.89,56.72,normal
+24.29,45.74,normal
+22.31,53.86,normal
+31.96,87.53,landslide risk
+23.18,46.29,normal
+25.85,82.89,moist soil
+24.75,53.77,normal
+20.94,61.98,normal
+33.01,92.79,landslide risk
+31.15,74.73,moist soil
+22.57,42.98,normal
+30.04,86.25,landslide risk
+20.28,53.32,normal
+34.43,92.93,landslide risk
+27.0,54.91,normal
+31.61,83.83,moist soil
+32.32,89.71,landslide risk
+25.44,71.66,moist soil
+24.33,43.97,normal
+28.19,73.85,moist soil
+23.33,62.62,normal
+28.79,77.24,moist soil
+22.16,42.16,normal
+33.21,85.04,landslide risk
+36.15,87.56,landslide risk
+32.63,94.8,landslide risk
+36.51,90.97,landslide risk
+27.97,54.86,normal
+30.46,88.5,landslide risk
+20.41,57.65,normal
+35.7,94.32,landslide risk
+36.0,93.26,landslide risk
+28.66,83.82,moist soil
+27.55,60.69,normal
+22.14,50.36,normal
+35.9,90.03,landslide risk
+30.16,84.79,moist soil
+20.41,41.22,normal
+33.71,90.81,landslide risk
+32.27,91.13,landslide risk
+27.69,66.71,normal
+34.76,91.03,landslide risk
+36.37,88.98,landslide risk
+24.09,48.68,normal
+26.2,55.46,normal
+26.31,67.93,normal
+27.24,63.26,normal
+20.23,43.94,normal
+26.31,69.71,normal
+34.15,94.68,landslide risk
+29.23,71.24,moist soil
+28.17,77.44,moist soil
+27.07,52.47,normal
+26.25,79.55,moist soil
+37.62,85.85,landslide risk
+30.67,74.41,moist soil
+31.8,79.94,moist soil
+31.57,90.82,landslide risk
+25.27,74.78,moist soil
+25.27,57.28,normal
+30.4,75.83,moist soil
+21.54,53.24,normal
+31.51,83.05,moist soil
+26.43,74.06,moist soil
+24.27,62.43,normal
+30.74,71.98,moist soil
+26.62,52.52,normal
+27.27,49.02,normal
+25.29,47.58,normal
+26.22,41.45,normal
+26.8,75.38,moist soil
+23.43,60.32,normal
+29.72,73.36,moist soil
+27.82,80.41,moist soil
+30.01,74.57,moist soil
+28.05,82.06,moist soil
+35.62,92.52,landslide risk
+24.58,67.45,normal
+27.93,74.85,moist soil
+20.96,56.63,normal
+20.17,44.83,normal
+28.61,73.61,moist soil
+31.4,83.03,moist soil
+27.56,67.07,normal
+36.62,85.41,landslide risk
+25.89,72.41,moist soil
+22.46,41.93,normal
+30.72,86.55,landslide risk
+27.66,60.74,normal
+26.37,52.81,normal
+35.99,93.45,landslide risk
+25.24,41.18,normal
+24.29,69.07,normal
+35.92,93.92,landslide risk
+24.58,41.87,normal
+30.8,94.0,landslide risk
+22.65,60.55,normal
+27.15,71.78,moist soil
+27.77,56.7,normal
+30.18,85.4,landslide risk
+37.41,91.43,landslide risk
+33.41,91.58,landslide risk
+28.96,71.5,moist soil
+37.5,85.97,landslide risk
+25.39,52.74,normal
+35.03,90.61,landslide risk
+27.4,79.92,moist soil
+23.74,59.95,normal
+29.2,71.56,moist soil
+20.9,44.04,normal
+27.76,65.13,normal
+25.7,82.12,moist soil
+35.34,90.79,landslide risk
+21.14,61.6,normal
+25.45,84.64,moist soil
+30.45,81.01,moist soil
+22.0,58.52,normal
+23.77,64.27,normal
+29.36,72.7,moist soil
+27.53,71.37,moist soil
+24.5,44.05,normal
+34.77,87.11,landslide risk
+22.5,40.34,normal
+32.16,94.76,landslide risk
+37.64,92.18,landslide risk
+31.09,93.41,landslide risk
+27.14,56.81,normal
+31.67,78.09,moist soil
+30.56,71.32,moist soil
+23.38,54.14,normal
+22.07,51.8,normal
+28.28,76.22,moist soil
+30.42,93.85,landslide risk
+24.35,63.13,normal
+24.45,60.89,normal
+25.44,83.05,moist soil
+26.74,46.75,normal
+27.63,43.03,normal
+24.45,56.02,normal
+23.22,63.22,normal
+33.5,94.27,landslide risk
+22.24,42.29,normal
+24.81,52.01,normal
+24.06,54.18,normal
+37.92,92.37,landslide risk
+30.28,74.76,moist soil
+25.51,52.21,normal
+24.84,42.3,normal
+24.34,60.73,normal
+25.53,63.06,normal
+26.34,75.34,moist soil
+27.29,73.16,moist soil
+21.62,48.5,normal
+22.32,54.99,normal
+31.48,87.02,landslide risk
+26.29,58.42,normal
+26.08,78.28,moist soil
+21.21,68.66,normal
+35.92,93.63,landslide risk
+33.38,89.36,landslide risk
+28.35,73.78,moist soil
+22.85,49.22,normal
+20.08,52.65,normal
+34.39,89.38,landslide risk
+24.8,49.32,normal
+30.77,85.74,landslide risk
+27.83,48.5,normal
+25.35,80.75,moist soil
+27.62,58.7,normal
+25.09,84.92,moist soil
+27.46,79.89,moist soil
+32.55,90.26,landslide risk
+23.06,61.92,normal
+25.55,81.08,moist soil
+22.34,69.58,normal
+23.67,48.78,normal
+35.67,94.13,landslide risk
+24.6,41.67,normal
+25.59,55.42,normal
+26.74,71.94,moist soil
+25.5,80.37,moist soil
+37.1,87.49,landslide risk
+28.11,78.85,moist soil
+28.99,76.98,moist soil
+30.15,92.32,landslide risk
+28.42,73.6,moist soil
+20.6,42.04,normal
+20.87,67.98,normal
+26.04,75.62,moist soil
+23.02,56.15,normal
+20.8,67.84,normal
+35.7,88.4,landslide risk
+25.07,64.9,normal
+20.11,59.38,normal
+24.01,64.61,normal
+25.82,82.52,moist soil
+26.69,71.08,moist soil
+21.65,41.33,normal
+31.91,83.6,moist soil
+21.92,62.82,normal
+22.05,60.57,normal
+32.27,92.86,landslide risk
+22.54,41.63,normal
+22.83,48.82,normal
+26.96,45.33,normal
+23.8,57.98,normal
+35.92,89.02,landslide risk
+35.03,87.08,landslide risk
+24.46,55.97,normal
+23.46,67.2,normal
+22.02,51.23,normal
+24.18,66.36,normal
+22.59,44.49,normal
+30.12,81.35,moist soil
+32.34,85.95,landslide risk
+23.37,46.89,normal
+25.81,78.91,moist soil
+26.86,41.17,normal
+36.32,94.78,landslide risk
+27.8,66.1,normal
+31.78,93.75,landslide risk
+35.59,88.14,landslide risk
+24.28,58.77,normal
+22.72,59.5,normal
+34.37,90.04,landslide risk
+35.42,86.88,landslide risk
+26.03,79.18,moist soil
+21.51,69.9,normal
+31.77,87.82,landslide risk
+32.01,91.09,landslide risk
+22.38,62.93,normal
+25.49,45.62,normal
+25.84,59.28,normal
+20.78,46.44,normal
+30.69,80.26,moist soil
+26.73,55.49,normal
+31.72,85.77,landslide risk
+30.71,92.68,landslide risk
+25.62,71.3,moist soil
+26.85,83.37,moist soil
+26.49,78.5,moist soil
+26.88,64.55,normal
+21.69,54.01,normal
+36.11,85.67,landslide risk
+36.19,85.14,landslide risk
+26.52,67.13,normal
+24.29,59.1,normal
+20.66,64.09,normal
+31.42,86.46,landslide risk
+36.45,90.34,landslide risk
+25.21,44.61,normal
+33.84,94.81,landslide risk
+23.47,52.38,normal
+25.63,55.08,normal
+27.92,80.01,moist soil
+27.77,80.13,moist soil
+24.1,67.62,normal
+36.97,92.87,landslide risk
+30.98,94.37,landslide risk
+24.26,41.24,normal
+25.83,74.69,moist soil
+31.6,87.38,landslide risk
+30.19,81.76,moist soil
+36.7,93.91,landslide risk
+25.25,40.94,normal
+30.31,87.47,landslide risk
+36.43,92.25,landslide risk
+32.61,89.35,landslide risk
+25.84,56.58,normal
+31.95,75.99,moist soil
+25.99,79.58,moist soil
+29.08,72.4,moist soil
+31.04,85.51,landslide risk
+21.03,44.52,normal
+25.59,40.57,normal
+31.37,76.84,moist soil
+21.12,57.13,normal
+35.6,92.78,landslide risk
+27.35,75.75,moist soil
+30.08,89.86,landslide risk
+23.33,40.49,normal
+34.72,87.7,landslide risk
+22.95,45.98,normal
+33.93,86.36,landslide risk
+33.31,92.79,landslide risk
+27.72,78.82,moist soil
+27.04,59.14,normal
+20.96,41.15,normal
+24.17,60.82,normal
+30.1,81.69,moist soil
+36.91,85.89,landslide risk
+24.17,58.02,normal
+34.9,87.48,landslide risk
+28.42,74.96,moist soil
+27.9,45.38,normal
+23.08,42.17,normal
+36.7,86.47,landslide risk
+36.64,94.97,landslide risk
+26.37,78.93,moist soil
+26.52,55.23,normal
+35.41,91.14,landslide risk
+26.33,51.79,normal
+26.24,47.33,normal
+27.88,66.51,normal
+35.96,90.14,landslide risk
+20.21,44.42,normal
+36.49,92.16,landslide risk
+21.54,56.75,normal
+24.75,47.31,normal
+31.65,84.63,moist soil
+23.59,52.5,normal
+33.85,90.02,landslide risk
+27.86,49.75,normal
+29.66,80.66,moist soil
+31.48,78.82,moist soil
+23.48,61.43,normal
+33.16,92.68,landslide risk
+34.98,93.37,landslide risk
+38.0,85.63,landslide risk
+26.26,70.85,moist soil
+20.96,67.25,normal
+28.19,71.6,moist soil
+25.48,80.11,moist soil
+31.87,80.57,moist soil
+28.24,84.38,moist soil
+24.56,48.23,normal
+22.46,68.77,normal
+28.38,76.38,moist soil
+27.78,47.02,normal
+21.96,60.51,normal
+27.76,75.92,moist soil
+28.92,80.99,moist soil
+26.38,80.79,moist soil
+24.74,57.1,normal
+37.35,91.12,landslide risk
+20.74,57.2,normal
+20.94,41.5,normal
+34.67,93.42,landslide risk
+31.06,75.91,moist soil
+37.92,90.46,landslide risk
+21.16,61.55,normal
+22.38,51.61,normal
+23.86,42.44,normal
+26.77,41.68,normal
+35.63,86.21,landslide risk
+21.87,42.03,normal
+26.97,49.41,normal
+23.29,53.27,normal
+26.93,54.32,normal
+28.51,75.13,moist soil
+23.78,45.19,normal
+22.03,60.07,normal
+30.91,73.93,moist soil
+25.51,41.43,normal
+26.94,43.58,normal
+25.22,79.2,moist soil
+36.76,90.36,landslide risk
+25.91,59.75,normal
+32.95,89.93,landslide risk
+28.17,78.84,moist soil
+36.78,85.81,landslide risk
+22.51,64.96,normal
+20.82,42.9,normal
+33.56,88.76,landslide risk
+28.73,83.1,moist soil
+28.22,78.02,moist soil
+28.67,79.15,moist soil
+37.87,88.34,landslide risk
+34.85,93.87,landslide risk
+20.29,64.65,normal
+37.7,88.41,landslide risk
+25.26,72.07,moist soil
+33.87,90.55,landslide risk
+20.23,57.04,normal
+27.23,74.49,moist soil
+30.15,74.76,moist soil
+21.69,49.89,normal
+34.36,89.68,landslide risk
+37.36,91.57,landslide risk
+21.76,67.8,normal
+35.64,88.18,landslide risk
+23.57,50.01,normal
+25.94,83.34,moist soil
+27.61,83.25,moist soil
+33.77,89.75,landslide risk
+23.59,41.18,normal
+20.77,62.49,normal
+31.65,73.92,moist soil
+26.57,80.97,moist soil
+23.08,69.76,normal
+31.92,86.17,landslide risk
+26.18,49.66,normal
+23.52,64.66,normal
+34.51,92.76,landslide risk
+26.79,63.32,normal
+36.64,94.35,landslide risk
+35.39,94.58,landslide risk
+29.66,78.43,moist soil
+22.32,43.37,normal
+29.78,82.31,moist soil
+33.08,85.57,landslide risk
+37.14,92.16,landslide risk
+33.04,94.68,landslide risk
+21.21,46.31,normal
+21.01,69.78,normal
+21.81,47.66,normal
+25.99,76.17,moist soil
+23.44,55.81,normal
+31.41,71.25,moist soil
+26.2,53.61,normal
+25.37,58.19,normal
+26.1,55.6,normal
+20.13,41.83,normal
+30.84,75.52,moist soil
+26.06,50.09,normal
+30.34,87.05,landslide risk
+20.74,56.33,normal
+26.95,54.88,normal
+29.48,82.46,moist soil
+27.42,40.3,normal
+27.63,46.87,normal
+28.87,72.8,moist soil
+25.57,49.04,normal
+31.3,82.78,moist soil
+22.27,59.6,normal
+28.42,82.34,moist soil
+21.79,62.54,normal
+36.65,91.93,landslide risk
+37.36,92.54,landslide risk
+25.33,78.65,moist soil
+27.02,47.5,normal
+32.26,91.63,landslide risk
+21.95,63.14,normal
+30.79,77.64,moist soil
+26.5,62.9,normal
+37.03,90.89,landslide risk
+33.11,94.37,landslide risk
+28.76,73.16,moist soil
+26.67,63.79,normal
+37.4,91.43,landslide risk
+37.17,86.91,landslide risk
+32.79,88.85,landslide risk
+23.35,49.65,normal
+30.08,87.34,landslide risk
+32.51,88.37,landslide risk
+21.77,54.69,normal
+21.63,43.22,normal
+30.05,92.66,landslide risk
+30.18,74.66,moist soil
+30.06,85.83,landslide risk
+23.59,55.8,normal
+30.65,75.87,moist soil
+24.7,47.39,normal
+25.14,56.23,normal
+24.15,46.58,normal
+30.18,86.01,landslide risk
+26.14,72.28,moist soil
+21.61,59.97,normal
+37.8,94.15,landslide risk
+26.52,63.43,normal
+37.66,92.68,landslide risk
+35.84,87.49,landslide risk
+21.48,44.02,normal
+29.13,73.25,moist soil
+25.82,52.24,normal
+26.77,61.54,normal
+28.71,81.88,moist soil
+33.37,90.39,landslide risk
+27.79,83.54,moist soil
+29.23,75.2,moist soil
+20.3,40.2,normal
+31.05,74.84,moist soil
+36.82,93.94,landslide risk
+30.66,92.64,landslide risk
+31.33,70.67,moist soil
+33.14,94.0,landslide risk
+37.83,91.55,landslide risk
+27.72,44.46,normal
+26.71,55.8,normal
+23.94,69.35,normal
+23.32,47.65,normal
+26.93,71.31,moist soil
+23.99,57.22,normal
+25.23,43.23,normal
+27.62,46.63,normal
+30.43,79.59,moist soil
+29.46,74.72,moist soil
+27.29,76.44,moist soil
+31.67,76.78,moist soil
+35.47,85.81,landslide risk
+23.94,67.16,normal
+25.72,46.79,normal
+25.68,56.98,normal
+26.53,72.17,moist soil
+22.63,46.84,normal
+21.98,48.79,normal
+25.66,81.31,moist soil
+33.47,94.01,landslide risk
+24.63,69.15,normal
+26.98,55.19,normal
+37.85,87.8,landslide risk
+27.38,62.11,normal
+22.76,61.45,normal
+25.04,48.94,normal
+24.52,40.08,normal
+24.93,58.88,normal
+24.62,66.98,normal
+29.72,79.78,moist soil
+32.07,93.34,landslide risk
+23.23,62.08,normal
+22.71,67.38,normal
+35.32,93.45,landslide risk
+27.73,71.36,moist soil
+22.03,53.32,normal
+29.44,73.51,moist soil
+30.96,78.25,moist soil
+27.38,57.04,normal
+23.22,51.62,normal
+32.8,85.06,landslide risk
+27.99,42.44,normal
+22.83,52.53,normal
+34.25,92.62,landslide risk
+20.32,50.47,normal
+20.81,40.74,normal
+33.04,87.73,landslide risk
+26.52,41.44,normal
+37.22,85.07,landslide risk
+36.86,87.12,landslide risk
+27.28,50.99,normal
+37.24,93.26,landslide risk
+36.03,93.08,landslide risk
+31.81,78.84,moist soil
+20.53,54.27,normal
+26.43,74.15,moist soil
+37.32,92.86,landslide risk
+23.21,52.02,normal
+27.85,54.41,normal
+37.54,85.62,landslide risk
+34.71,86.85,landslide risk
+33.2,88.51,landslide risk
+23.67,48.0,normal
+26.52,78.25,moist soil
+31.49,91.13,landslide risk
+25.69,84.65,moist soil
+27.03,67.67,normal
+30.86,87.95,landslide risk
+20.8,51.91,normal
+26.34,62.55,normal
+23.03,53.44,normal
+25.06,47.41,normal
+27.34,65.73,normal
+32.77,90.43,landslide risk
+24.57,61.59,normal
+27.03,77.84,moist soil
+28.81,84.25,moist soil
+36.88,92.66,landslide risk
+26.07,81.27,moist soil
+26.42,45.31,normal
+25.52,50.7,normal
+25.73,49.81,normal
+30.97,90.09,landslide risk
+26.58,79.29,moist soil
+21.31,55.79,normal
+34.98,91.23,landslide risk
+30.79,78.44,moist soil
+27.3,50.91,normal
+26.77,83.07,moist soil
+31.86,87.62,landslide risk
+27.94,43.59,normal
+37.75,87.73,landslide risk
+24.72,48.5,normal
+27.97,44.39,normal
+36.15,88.12,landslide risk
+34.38,90.1,landslide risk
+30.36,72.1,moist soil
+23.74,41.67,normal
+28.83,76.26,moist soil
+33.54,94.66,landslide risk
+20.41,43.26,normal
+25.46,81.11,moist soil
+25.8,45.04,normal
+38.0,85.71,landslide risk
+25.19,56.99,normal
+27.18,81.26,moist soil
+26.25,74.52,moist soil
+24.98,67.45,normal
+28.13,71.28,moist soil
+24.83,62.97,normal
+35.27,93.27,landslide risk
+22.53,41.54,normal
+31.93,94.32,landslide risk
+22.52,52.4,normal
+27.91,81.74,moist soil
+25.76,48.52,normal
+21.55,64.16,normal
+26.21,40.91,normal
+26.35,75.21,moist soil
+24.87,68.35,normal
+32.75,92.27,landslide risk
+31.34,77.36,moist soil
+36.37,87.34,landslide risk
+22.12,69.57,normal
+33.67,90.42,landslide risk
+27.97,53.19,normal
+24.81,68.12,normal
+27.75,58.62,normal
+30.67,91.98,landslide risk
+25.36,49.3,normal
+22.95,61.86,normal
+21.98,45.38,normal
+37.61,89.76,landslide risk
+20.2,40.65,normal
+25.93,83.49,moist soil
+27.84,63.02,normal
+24.09,54.33,normal
+30.01,92.77,landslide risk
+27.59,61.59,normal
+23.01,68.93,normal
+26.86,44.62,normal
+27.6,63.72,normal
+24.42,46.92,normal
+27.58,79.44,moist soil
+20.87,53.04,normal
+26.44,41.39,normal
+24.17,64.33,normal
+28.19,74.82,moist soil
+35.4,94.36,landslide risk
+25.51,41.68,normal
+21.31,64.14,normal
+30.25,83.71,moist soil
+27.68,62.64,normal
+26.75,42.9,normal
+27.82,83.98,moist soil
+36.32,93.42,landslide risk
+31.99,72.95,moist soil
+24.88,58.19,normal
+28.7,78.7,moist soil
+31.38,94.43,landslide risk
+22.45,46.0,normal
+20.55,50.82,normal
+23.67,47.86,normal
+25.7,79.26,moist soil
+26.58,71.54,moist soil
+22.63,47.96,normal
+34.63,93.02,landslide risk
+36.43,90.78,landslide risk
+26.03,73.56,moist soil
+36.64,89.48,landslide risk
+35.05,91.06,landslide risk
+21.5,59.75,normal
+34.45,91.6,landslide risk
+34.2,87.92,landslide risk
+27.09,65.54,normal
+29.78,79.68,moist soil
+28.64,73.51,moist soil
+29.63,77.61,moist soil
+37.39,86.78,landslide risk
+30.72,77.53,moist soil
+34.97,89.72,landslide risk
+25.66,77.25,moist soil
+25.15,77.72,moist soil
+36.53,90.65,landslide risk
+36.86,90.42,landslide risk
+32.58,90.4,landslide risk
+36.78,89.91,landslide risk
+20.93,65.93,normal
+22.19,49.76,normal
+24.98,54.9,normal
+24.66,50.32,normal
+28.39,78.63,moist soil
+25.62,72.67,moist soil
+24.36,59.38,normal
+22.8,42.94,normal
+26.38,79.75,moist soil
+33.39,91.96,landslide risk
+28.31,80.02,moist soil
+27.7,77.8,moist soil
+23.87,65.01,normal
+21.44,40.43,normal
+31.69,70.66,moist soil
+25.27,75.12,moist soil
+29.77,71.33,moist soil
+33.39,91.23,landslide risk
+36.05,89.49,landslide risk
+29.29,75.67,moist soil
+21.64,51.18,normal
+24.68,48.57,normal
+24.32,65.26,normal
+25.48,65.28,normal
+29.64,77.64,moist soil
+34.52,91.75,landslide risk
+20.67,47.97,normal
+36.22,85.35,landslide risk
+27.05,82.12,moist soil
+23.36,60.16,normal
+37.85,85.38,landslide risk
+36.6,93.68,landslide risk
+33.66,88.26,landslide risk
+29.96,75.84,moist soil
+25.22,78.09,moist soil
+24.21,54.9,normal
+25.86,55.87,normal
+31.14,81.2,moist soil
+31.35,86.89,landslide risk
+25.87,76.6,moist soil
+20.3,67.41,normal
+22.28,48.77,normal
+26.33,73.54,moist soil
+22.35,47.74,normal
+30.79,91.18,landslide risk
+30.06,75.53,moist soil
+26.42,49.92,normal
+23.76,42.39,normal
+27.64,56.6,normal
+24.71,58.19,normal
+22.05,59.43,normal
+30.62,87.85,landslide risk
+32.11,86.92,landslide risk
+26.61,40.37,normal
+20.44,57.97,normal
+20.76,60.86,normal
+21.42,47.71,normal
+28.09,83.25,moist soil
+33.69,90.51,landslide risk
+32.39,94.37,landslide risk
+26.05,61.13,normal
+37.83,87.02,landslide risk
+20.11,47.92,normal
+20.93,42.9,normal
+26.24,60.7,normal
+28.08,75.65,moist soil
+25.0,58.98,normal
+31.25,71.69,moist soil
+35.11,86.66,landslide risk
+27.58,53.47,normal
+21.97,59.26,normal
+23.53,60.61,normal
+25.87,58.28,normal
+22.66,44.07,normal
+26.95,70.09,moist soil
+37.27,93.67,landslide risk
+30.44,82.52,moist soil
+26.94,61.53,normal
+32.82,88.45,landslide risk
+31.87,90.76,landslide risk
+26.15,76.82,moist soil
+30.34,73.64,moist soil
+31.35,90.2,landslide risk
+35.37,87.17,landslide risk
+30.19,72.74,moist soil
+27.07,58.13,normal
+27.11,47.81,normal
+28.28,79.93,moist soil
+24.18,43.21,normal
+22.2,68.3,normal
+31.1,94.71,landslide risk
+37.49,93.03,landslide risk
+24.84,41.33,normal
+27.16,43.02,normal
+27.36,79.02,moist soil
+36.91,85.02,landslide risk
+22.86,64.02,normal
+25.25,47.02,normal
+25.62,76.91,moist soil
+26.04,46.16,normal
+29.46,79.94,moist soil
+31.97,75.73,moist soil
+27.58,79.75,moist soil
+32.82,85.71,landslide risk
+24.14,62.62,normal
+33.19,91.27,landslide risk
+26.43,72.96,moist soil
+26.87,65.79,normal
+21.5,41.46,normal
+23.93,44.06,normal
+25.07,64.0,normal
+33.78,92.29,landslide risk
+20.16,49.52,normal
+29.99,74.06,moist soil
+31.54,78.43,moist soil
+29.62,76.06,moist soil
+37.46,92.96,landslide risk
+24.42,56.24,normal
+20.93,49.48,normal
+31.1,90.24,landslide risk
+22.4,64.88,normal
+24.17,46.89,normal
+26.31,57.63,normal
+24.65,68.57,normal
+25.76,71.51,moist soil
+33.22,93.49,landslide risk
+20.8,69.06,normal
+34.66,91.21,landslide risk
+22.0,49.02,normal
+26.47,66.78,normal
+24.08,61.9,normal
+33.95,91.63,landslide risk
+31.93,87.12,landslide risk
+35.51,93.86,landslide risk
+26.07,46.49,normal
+27.32,40.16,normal
+31.7,93.01,landslide risk
+27.99,41.07,normal
+34.31,90.91,landslide risk
+26.92,75.46,moist soil
+26.18,47.99,normal
+35.16,87.53,landslide risk
+30.9,93.42,landslide risk
+28.19,84.9,moist soil
+20.51,44.28,normal
+34.67,86.91,landslide risk
+21.92,68.17,normal
+26.85,78.61,moist soil
+22.6,52.95,normal
+31.4,81.07,moist soil
+20.55,43.16,normal
+22.45,65.37,normal
+33.86,86.2,landslide risk
+26.56,52.51,normal
+23.78,56.26,normal
+27.83,84.42,moist soil
+21.42,41.04,normal
+23.21,54.41,normal
+30.64,77.41,moist soil
+25.79,74.04,moist soil
+23.11,66.65,normal
+24.64,43.33,normal
+24.98,50.78,normal
+26.63,57.64,normal
+23.6,49.83,normal
+23.9,49.89,normal
+30.56,80.08,moist soil
+27.16,72.73,moist soil
+34.85,92.44,landslide risk
+33.98,88.68,landslide risk
+22.67,56.44,normal
+23.76,49.4,normal
+37.63,93.02,landslide risk
+27.04,83.78,moist soil
+20.92,64.32,normal
+27.93,60.94,normal
+27.82,60.12,normal
+20.89,69.36,normal
+31.67,90.08,landslide risk
+37.94,89.57,landslide risk
+27.44,58.99,normal
+36.15,86.47,landslide risk
+30.45,88.69,landslide risk
+27.35,82.25,moist soil
+31.52,87.05,landslide risk
+27.74,63.75,normal
+24.79,60.32,normal
+34.71,86.96,landslide risk
+27.73,78.73,moist soil
+30.13,82.28,moist soil
+24.77,53.88,normal
+21.07,51.65,normal
+22.17,45.86,normal
+36.54,92.18,landslide risk
+27.14,70.3,moist soil
+22.71,49.39,normal
+23.77,56.3,normal
+25.67,67.57,normal
+21.38,56.8,normal
+26.06,67.04,normal
+21.91,63.3,normal
+30.48,73.29,moist soil
+23.91,52.5,normal
+32.25,93.25,landslide risk
+33.46,94.23,landslide risk
+27.94,80.06,moist soil
+20.98,52.77,normal
+32.15,90.73,landslide risk
+24.16,64.86,normal
+27.73,78.57,moist soil
+20.67,52.29,normal
+24.77,57.82,normal
+20.36,57.77,normal
+25.64,50.69,normal
+33.15,92.27,landslide risk
+27.55,66.4,normal
+25.58,54.58,normal
+21.44,52.23,normal
+23.55,63.25,normal
+29.45,70.1,moist soil
+22.87,42.82,normal
+26.6,79.61,moist soil
+25.96,59.36,normal
+26.23,52.44,normal
+25.45,73.29,moist soil
+37.45,89.88,landslide risk
+25.21,57.09,normal
+21.07,49.42,normal
+34.45,85.07,landslide risk
+36.56,90.91,landslide risk
+25.28,77.77,moist soil
+23.18,54.29,normal
+25.93,81.91,moist soil
+22.51,61.43,normal
+25.19,58.81,normal
+25.02,75.51,moist soil
+27.59,79.03,moist soil
+25.23,52.6,normal
+36.69,93.75,landslide risk
+36.64,88.0,landslide risk
+22.75,53.3,normal
+25.27,44.7,normal
+28.65,72.94,moist soil
+25.73,68.03,normal
+25.1,70.4,moist soil
+27.47,84.36,moist soil
+25.16,61.89,normal
+22.98,67.67,normal
+26.39,54.38,normal
+30.58,73.25,moist soil
+20.71,58.67,normal
+20.51,65.96,normal
+22.65,68.12,normal
+21.16,67.29,normal
+35.42,90.69,landslide risk
+28.98,83.71,moist soil
+28.66,80.83,moist soil
+27.99,62.02,normal
+21.12,43.55,normal
+35.75,94.8,landslide risk
+27.86,54.29,normal
+29.55,72.57,moist soil
+31.03,72.49,moist soil
+30.7,77.31,moist soil
+35.38,85.61,landslide risk
+20.08,56.25,normal
+30.14,82.75,moist soil
+25.84,48.95,normal
+25.1,64.02,normal
+27.77,70.13,moist soil
+27.4,75.11,moist soil
+31.23,89.77,landslide risk
+33.29,86.64,landslide risk
+22.98,42.78,normal
+20.49,42.91,normal
+26.53,78.32,moist soil
+27.13,77.84,moist soil
+22.33,46.11,normal
+23.38,66.72,normal
+31.52,79.66,moist soil
+22.23,43.82,normal
+29.35,83.96,moist soil
+24.89,62.75,normal
+25.15,56.95,normal
+29.34,71.19,moist soil
+22.5,42.45,normal
+25.55,56.36,normal
+35.28,86.31,landslide risk
+24.32,65.4,normal
+27.87,78.83,moist soil
+30.18,94.86,landslide risk
+27.45,52.66,normal
+29.41,83.55,moist soil
+26.31,42.4,normal
+22.66,55.24,normal
+27.14,71.03,moist soil
+26.39,71.91,moist soil
+26.98,60.69,normal
+27.08,56.91,normal
+25.29,84.38,moist soil
+31.41,82.06,moist soil
+27.93,52.23,normal
+27.24,61.18,normal
+26.46,71.37,moist soil
+23.74,51.44,normal
+20.36,40.58,normal
+28.5,70.39,moist soil
+25.82,43.75,normal
+30.06,90.35,landslide risk
+32.11,92.15,landslide risk
+25.65,46.74,normal
+31.32,71.78,moist soil
+26.07,50.89,normal
+20.87,69.55,normal
+25.81,59.83,normal
+31.6,72.93,moist soil
+30.44,70.57,moist soil
+21.98,69.34,normal
+25.24,61.7,normal
+21.94,66.92,normal
+21.1,65.82,normal
+21.95,67.81,normal
+31.63,78.12,moist soil
+26.66,65.17,normal
+25.36,44.59,normal
+37.88,91.01,landslide risk
+30.86,76.74,moist soil
+26.31,56.25,normal
+35.22,85.22,landslide risk
+24.02,47.59,normal
+20.61,54.39,normal
+26.99,60.34,normal
+22.57,67.44,normal
+22.33,69.07,normal
+23.93,69.8,normal
+26.42,46.5,normal
+31.06,80.4,moist soil
+23.59,55.87,normal
+30.39,75.26,moist soil
+31.82,88.08,landslide risk
+22.88,49.46,normal
+24.19,44.92,normal
+20.31,44.97,normal
+22.66,66.33,normal
+28.42,74.91,moist soil
+30.35,83.71,moist soil
+26.95,56.92,normal
+31.41,84.41,moist soil
+25.5,40.64,normal
+33.18,88.1,landslide risk
+27.99,44.65,normal
+31.09,77.58,moist soil
+26.0,49.67,normal
+22.69,67.83,normal
+20.11,41.08,normal
+27.34,80.8,moist soil
+34.62,87.81,landslide risk
+22.73,43.07,normal
+25.91,43.05,normal
+34.03,91.84,landslide risk
+25.57,41.46,normal
+23.72,52.44,normal
+30.37,70.69,moist soil
+37.17,94.73,landslide risk
+22.45,45.73,normal
+25.84,69.48,normal
+30.98,75.82,moist soil
+30.73,92.84,landslide risk
+23.25,56.64,normal
+23.56,53.15,normal
+34.94,86.65,landslide risk
+26.1,42.6,normal
+27.84,73.19,moist soil
+30.44,77.62,moist soil
+26.13,59.25,normal
+24.07,41.02,normal
+21.94,63.47,normal
+21.91,51.49,normal
+25.63,67.62,normal
+30.37,81.47,moist soil
+20.21,57.84,normal
+24.85,40.89,normal
+22.18,53.82,normal
+37.39,85.03,landslide risk
+29.3,71.84,moist soil
+29.8,72.9,moist soil
+24.07,64.96,normal
+25.0,63.13,normal
+24.43,56.97,normal
+29.91,81.19,moist soil
+21.49,43.45,normal
+31.66,74.94,moist soil
+20.84,44.93,normal
+37.16,92.92,landslide risk
+32.19,88.64,landslide risk
+26.58,50.76,normal
+23.37,46.31,normal
+25.17,53.77,normal
+37.92,94.48,landslide risk
+31.67,88.58,landslide risk
+24.87,65.23,normal
+27.34,54.25,normal
+23.31,45.08,normal
+26.95,45.97,normal
+26.54,75.84,moist soil
+26.87,53.96,normal
+26.6,48.17,normal
+27.5,49.85,normal
+37.04,86.61,landslide risk
+30.35,91.28,landslide risk
+25.39,83.06,moist soil
+28.98,81.34,moist soil
+20.29,48.37,normal
+30.83,73.03,moist soil
+31.71,84.09,moist soil
+28.38,79.01,moist soil
+29.02,73.73,moist soil
+23.03,62.19,normal
+21.37,43.35,normal
+21.78,63.89,normal
+24.36,58.8,normal
+21.21,66.26,normal
+23.06,56.99,normal
+24.15,64.98,normal
+33.49,92.5,landslide risk
+37.84,90.32,landslide risk
+27.11,62.8,normal
+27.8,44.74,normal
+25.22,62.5,normal
+25.47,50.82,normal
+25.65,83.98,moist soil
+24.88,69.67,normal
+21.25,50.03,normal
+29.11,75.96,moist soil
+32.61,90.67,landslide risk
+21.61,45.6,normal
+20.05,57.96,normal
+26.28,60.56,normal
+21.31,48.38,normal
+31.14,82.61,moist soil
+31.4,82.88,moist soil
+26.48,58.21,normal
+33.53,86.68,landslide risk
+31.26,78.19,moist soil
+21.26,42.22,normal
+25.71,81.33,moist soil
+28.02,83.2,moist soil
+32.74,93.0,landslide risk
+26.72,72.81,moist soil
+22.7,52.12,normal
+25.25,63.78,normal
+26.51,70.46,moist soil
+35.1,87.96,landslide risk
+33.18,88.13,landslide risk
+26.5,50.93,normal
+34.14,86.14,landslide risk
+20.61,61.88,normal
+26.63,81.76,moist soil
+31.43,83.59,moist soil
+31.23,76.8,moist soil
+27.04,82.06,moist soil
+22.16,60.74,normal
+22.84,44.16,normal
+24.34,66.41,normal
+25.82,57.85,normal
+33.51,94.2,landslide risk
+22.55,69.68,normal
+23.94,46.79,normal
+36.87,87.6,landslide risk
+36.6,87.3,landslide risk
+27.5,81.21,moist soil
+33.11,93.26,landslide risk
+33.46,92.84,landslide risk
+25.96,70.49,moist soil
+24.8,49.55,normal
+29.25,76.2,moist soil
+22.0,41.41,normal
+21.71,60.76,normal
+31.35,86.14,landslide risk
